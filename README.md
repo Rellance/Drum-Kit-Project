@@ -1,5 +1,6 @@
 # Drum Kit Project
 An interactive drum kit web app built with JavaScript, HTML5, and CSS3.
+[Link](https://rellance.github.io/Drum-Kit-Project/)
 
 # Features
 Play drum sounds by clicking buttons or pressing keyboard keys
